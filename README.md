@@ -1,5 +1,7 @@
-video app live link : [http://videoapp-richard.netlify.app]
-json-server Link: [https://jsonservervedioapp.onrender.com]
+#video app live link : [http://videoapp-richard.netlify.app](https://videoapp-richard.netlify.app/)
+http://videoapp-richard.netlify.app
+#json-server Link: [https://jsonservervedioapp.onrender.com/](https://jsonservervedioapp.onrender.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
